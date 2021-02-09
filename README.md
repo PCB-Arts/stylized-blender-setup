@@ -4,7 +4,7 @@ This repository provides a comprehensive shader setup that you can use to turn e
 
 ![Final rendered image](Docs/Final-Render.png)
 
-If you just want to download the Blender project, we recommend you to **not clone this repo since it's very large in file size**. Instead you can download the .blend file and all necessary textures from the Releases page as a compressed ZIP folder.
+If you just want to download the Blender project, we recommend you to **not clone this repo since it's very large in file size**. Instead you can download the `.blend` file and all necessary textures from the [Releases page](https://github.com/PCB-Arts/stylized-blender-setup/releases) as a compressed ZIP folder.
 
 
 ## Shader Configuration
