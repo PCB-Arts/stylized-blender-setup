@@ -18,7 +18,7 @@ If you just want to download the Blender project, we recommend you to **not clon
 | ---- | ---- | ----------- |
 | PCB Base | `Color` | Color of the PCB's surface with soldermask and copper underneath. |
 | PCB Base Dark | `Color` | Color of the PCB's surface with soldermask and no copper underneath (this is usually darker than the color of PCB Base). |
-| Top / Bottom Copper Mask | `Image` | B/W Texture of the Top Copper Layer. Expects black areas to indicates **Copper** and white areas to indicate **no Copper**. |
+| Top / Bottom Copper Mask | `Image` | B/W Texture of the Copper Layer. Expects black areas to indicates **Copper** and white areas to indicate **no Copper**. |
 | Top / Bottom Silkscreen Mask | `Image` | B/W Texture of the Silkscreen Layer. Expects black areas to indicate **Silkscreen** and white areas to indicate **no Silkscreen**. |
 | Top / Bottom Soldermask Mask | `Image` | B/W Texture of Soldermask Layer. Expects black areas to indicate **no Soldermask** and white areas to indicate **Soldermask**. |
 | Copper Color | `Color` | Color of the exposed copper. Usually silver-ish or gold-ish. |
