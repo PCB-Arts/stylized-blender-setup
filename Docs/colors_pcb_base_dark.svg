@@ -1,4 +1,4 @@
-<svg version="1.1" viewBox="0 0 570 35" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" width="570" height="35" viewBox="0 0 570 35" xmlns="http://www.w3.org/2000/svg">
  <rect x="2" y="2" width="110" height="31" ry="3" fill="#687C19" fill-rule="evenodd" stroke-width=".31"/>
  <text x="9.7587891" y="24.780273" fill="#ffffff" font-family="sans-serif" font-size="20px" style="line-height:1.25" xml:space="preserve"><tspan x="9.7587891" y="24.780273">#687C19</tspan></text>
  <rect x="116" y="2" width="110" height="31" ry="3" fill="#053059" fill-rule="evenodd" stroke-width=".31"/>
