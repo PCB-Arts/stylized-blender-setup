@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 570 35" xmlns="http://www.w3.org/2000/svg">
+ <rect x="2" y="2" width="110" height="31" ry="3" fill="#dac92b" fill-rule="evenodd" stroke-width=".31"/>
+ <text x="7.8007812" y="24.780273" fill="#000000" font-family="sans-serif" font-size="20px" style="line-height:1.25" xml:space="preserve"><tspan x="7.8007812" y="24.780273">#DAC92B</tspan></text>
+ <rect x="116" y="2" width="110" height="31" ry="3" fill="#116cc2" fill-rule="evenodd" stroke-width=".31"/>
+ <text x="123.43652" y="24.780273" fill="#ffffff" font-family="sans-serif" font-size="20px" style="line-height:1.25" xml:space="preserve"><tspan x="123.43652" y="24.780273">#116CC2</tspan></text>
+ <rect x="230" y="2" width="110" height="31" ry="3" fill="#28a125" fill-rule="evenodd" stroke-width=".31"/>
+ <text x="238.07129" y="24.780273" fill="#ffffff" font-family="sans-serif" font-size="20px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="238.07129" y="24.780273">#28A125</tspan></text>
+ <rect x="344" y="2" width="110" height="31" ry="3" fill="#e50007" fill-rule="evenodd" stroke-width=".31"/>
+ <text x="352.57422" y="24.780273" fill="#ffffff" font-family="sans-serif" font-size="20px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="352.57422" y="24.780273">#E50007</tspan></text>
+ <rect x="458" y="2" width="110" height="31" ry="3" fill="#191918" fill-rule="evenodd" stroke-width=".31"/>
+ <text x="466.35938" y="24.780273" fill="#ffffff" font-family="sans-serif" font-size="20px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="466.35938" y="24.780273">#191918</tspan></text>
+</svg>
