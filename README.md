@@ -21,7 +21,7 @@ If you just want to download the Blender project, we recommend you to **not clon
 | Top / Bottom Copper Mask | `Image` | B/W Texture of the Copper Layer. Expects black areas to indicates **Copper** and white areas to indicate **no Copper**. |
 | Top / Bottom Silkscreen Mask | `Image` | B/W Texture of the Silkscreen Layer. Expects black areas to indicate **Silkscreen** and white areas to indicate **no Silkscreen**. |
 | Top / Bottom Soldermask Mask | `Image` | B/W Texture of Soldermask Layer. Expects black areas to indicate **no Soldermask** and white areas to indicate **Soldermask**. |
-| Copper Color | `Color` | Color of the exposed copper. Usually silver-ish or gold-ish. |
+| Copper Color | `Color` | Color of the exposed copper. Usually silver-ish or gold-ish.<br><br> Recommendations:<br> ![Recommended colors for Copper](Docs/colors_copper.svg) |
 | Silkscreen Color | `Color` | Color of the silkscreen. Usually just white. |
 
 **Outputs:**
