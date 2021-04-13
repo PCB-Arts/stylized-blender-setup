@@ -1,0 +1,4 @@
+# uncompressed blend file is very large
+# also ignore backup files (e.g. *.blend1)
+stylized-blender-setup.blend*
+!stylized-blender-setup.blend.gz
