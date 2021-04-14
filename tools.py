@@ -57,7 +57,7 @@ def install_hook():
 
     # create / overwrite "pre-commit" script that executes the compression
     with open("./.git/hooks/pre-commit", "w") as f:
-        f.write(f"#!/bin/sh\npython3 tools.py compress {BLEND_FILENAME} && git add {BLEND_FILENAME} || exit 1")
+        f.write(f"#!/bin/sh\npython3 tools.py compress {BLEND_FILENAME} && git add {BLEND_FILENAME}.gz || exit 1")
 
     # make script executable 
     os.system("chmod +x ./.git/hooks/pre-commit")
