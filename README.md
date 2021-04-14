@@ -34,3 +34,29 @@ If you just want to download the Blender project, we recommend you to **not clon
 
 Eventhough the shader configuration is quite complex, we encourage you to look into it and play around with the materials and parameters. We tried our best to configure the materials as realistic as possible, but don't hesitate to change them for your needs as you may find even more realistic parameters.
 
+## Development
+
+This repository contains a Blender project file which is quite large. Hence, it's best to compress this file before pushing any changes. To make life easier, there is a Python script named `tools.py` which can be used for compressing and uncompressing the `.blend` file. Also you can use it to setup a pre-commit hook which will automatically compress the right file before you create a commit.
+
+Here is how you can use this script:
+
+```
+usage: tools.py [-h] command [file]
+
+Tools for stylized-blender-setup
+
+positional arguments:
+  command     Determines type of operation. See command list below.
+  file        Path to target file
+
+optional arguments:
+  -h, --help  show this help message and exit
+
+command list:
+  compress      Compress .blend file using gzip and create .blend.gz file
+  uncompress    Uncompress .blend.gz file using gzip and create .blend file
+  install       Setup pre-commit hook for automatic compression before committing.
+```
+
+**NOTE:** This script uses standard packages of Python, so you don't have to install additional dependencies. The functionality was tested under Linux. It may not work on other systems.
+
