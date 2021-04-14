@@ -6,6 +6,12 @@ This repository provides a comprehensive shader setup that you can use to turn e
 
 If you just want to download the Blender project, we recommend you to **not clone this repo since it's very large in file size**. Instead you can download the `.blend` file and all necessary textures from the [Releases page](https://github.com/PCB-Arts/stylized-blender-setup/releases) as a compressed ZIP folder.
 
+If you want to know how this Blender file was created, you can read our articles about this on our blog:
+
+- [Rendering PCBs (Part 1) - Preparation, Textures and UV Unwrapping](https://blog.pcb-arts.com/en/blog/blender-tutorial-1)
+- [Rendering PCBs (Part 2) - Shader Setup](https://blog.pcb-arts.com/en/blog/blender-tutorial-2)
+
+The articles are available in :gb: and :de:. If you have any technical question or recommendation, feel free to open an Issue or Pull Request!
 
 ## Shader Configuration
 
