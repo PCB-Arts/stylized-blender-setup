@@ -10,6 +10,7 @@ If you want to know how this Blender file was created, you can read our articles
 
 - [Rendering PCBs (Part 1) - Preparation, Textures and UV Unwrapping](https://blog.pcb-arts.com/en/blog/blender-tutorial-1)
 - [Rendering PCBs (Part 2) - Shader Setup](https://blog.pcb-arts.com/en/blog/blender-tutorial-2)
+- [Rendering PCBs (Part 3) - Final steps](https://blog.pcb-arts.com/en/blog/blender-tutorial-3)
 
 The articles are available in :gb: and :de:. If you have any technical question or recommendation, feel free to open an Issue or Pull Request!
 
